@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZadanieTydzien2/1.0.0": {
+        "runtime": {
+          "ZadanieTydzien2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZadanieTydzien2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

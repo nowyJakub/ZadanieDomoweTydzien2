@@ -1,0 +1,15 @@
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\bin\Debug\net6.0\ZadanieTydzien2.exe
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\bin\Debug\net6.0\ZadanieTydzien2.deps.json
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\bin\Debug\net6.0\ZadanieTydzien2.runtimeconfig.json
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\bin\Debug\net6.0\ZadanieTydzien2.dll
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\bin\Debug\net6.0\ZadanieTydzien2.pdb
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.csproj.AssemblyReference.cache
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.AssemblyInfoInputs.cache
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.AssemblyInfo.cs
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.csproj.CoreCompileInputs.cache
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.dll
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\refint\ZadanieTydzien2.dll
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.pdb
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ZadanieTydzien2.genruntimeconfig.cache
+C:\Users\a705859\source\repos\ZadanieTydzien2\FirstApp\obj\Debug\net6.0\ref\ZadanieTydzien2.dll
